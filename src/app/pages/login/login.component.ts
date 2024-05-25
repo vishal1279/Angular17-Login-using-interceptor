@@ -8,6 +8,8 @@ import { Router } from '@angular/router';
   styleUrl: './login.component.css',
 })
 export class LoginComponent {
+  //email: rahul@gmail.com
+  //Password:223344
   loginObj: any = {
     EmailId: '',
     Password: '',
